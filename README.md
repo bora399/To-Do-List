@@ -1,6 +1,6 @@
-# flutter_application_1
+# To-Do-List
 
-A new Flutter project.
+This is my first and simple flutter project, there is no database or some async stuff. 
 
 ## Getting Started
 
