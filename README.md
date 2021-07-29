@@ -1,6 +1,7 @@
-# flutter_application_1
+# To-Do-List
 
-A new Flutter project.
+This is my first and simple flutter project, there is no database.
+I just use shared preferences to save data.
 
 ## Getting Started
 
