@@ -8,6 +8,14 @@ class Quote {
   }) {
     this.text = text;
   }
+
+  Quote.fromMap(Map map) : this.text = map["text"];
+
+  Map toMap() {
+    return {
+      'text': this.text,
+    };
+  }
 }
 
 class QuoteWidget extends StatefulWidget {
